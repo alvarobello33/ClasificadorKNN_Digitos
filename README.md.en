@@ -59,3 +59,4 @@ cd <REPOSITORY_NAME>
 - PCA, SVD and KernelPCA achieve the highest accuracy (~98.9%) on this dataset.
 - All experiments are documented step by step in the notebook.
 
+
