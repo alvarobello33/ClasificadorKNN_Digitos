@@ -25,7 +25,7 @@ El proyecto está desarrollado en **Google Colab** y se entrega como un notebook
 
 ---
 
-## 🛠️ Requisitos
+## 🛠️ Dependencias
 
 - numpy  
 - scikit-learn  
