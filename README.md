@@ -44,8 +44,8 @@ pip install numpy scikit-learn matplotlib pandas
 
 1. Clona el repositorio:
 ```
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_REPOSITORIO>
+git clone https://github.com/alvarobello33/ClasificadorKNN_Digitos.git
+cd ClasificadorKNN_Digitos
 ```
 
 2. Abre el notebook .ipynb en Google Colab o Jupyter Notebook.
